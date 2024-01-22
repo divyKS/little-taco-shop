@@ -1,7 +1,7 @@
 # CSS Challenge
 After learning [CSS](https://github.com/divyKS/learn-css-dave) I practised applying the CSS concepts in the [webpage](https://github.com/divyKS/tacoShop-html) that I built after learning HTML.
 
-I practised using 
+With this project I go to practise -  
 - light/dark mode based on the devices theme `@media (prefers-color-scheme:light/dark)`
 - css variables
 - pseudo classes for styling purposes
